@@ -1,0 +1,195 @@
+.italia {
+    width: 600px;
+    height: 400px;
+    border: 4px solid black;
+    border-radius: 5px;
+    display: flex;
+}
+
+.c1 {
+    width: 33.33%;
+    height: 100%;
+    background-color: green;
+}
+
+.c2 {
+    width: 33.33%;
+    height: 100%;
+    background-color: white;
+}
+
+.c3 {
+    width: 33.33%;
+    height: 100%;
+    background-color: red;
+}
+
+.belgica {
+    position: absolute;
+    top: 10px;
+    left: 640px;
+    width: 600px;
+    height: 400px;
+    border: 4px solid black;
+    border-radius: 5px;
+    display: flex;
+}
+
+.co1 {
+    width: 33.33%;
+    height: 100%;
+    background-color: black;
+}
+
+.co2 {
+    width: 33.33%;
+    height: 100%;
+    background-color: yellow;
+}
+
+.co3 {
+    width: 33.33%;
+    height: 100%;
+    background-color: red;
+}
+
+.polonia {
+    position: relative;
+    top: 20px;
+    width: 600px;
+    height: 400px;
+    border: 4px solid black;
+    border-radius: 5px;
+    display: flex;
+}
+
+.l1 {
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    z-index: 0;
+}
+
+.l2 {
+    position: absolute;
+    top: 50%;
+    bottom: 500px;
+    width: 100%;
+    height: 50%;
+    background-color: red;
+    z-index: 1;
+}
+
+.alemanha {
+    position: absolute;
+    top: 436px;
+    left: 640px;
+    width: 600px;
+    height: 400px;
+    border: 4px solid black;
+    border-radius: 5px;
+    display: flex;
+}
+
+.li1 {
+    width: 100%;
+    height: 33.33%;
+    background-color: black;
+}
+
+.li2 {
+    position: absolute;
+    top: 33.33%;
+    width: 100%;
+    height: 33.33%;
+    background-color: red;
+}
+
+.li3 {
+    position: absolute;
+    top: 66.66%;
+    width: 100%;
+    height: 33.33%;
+    background-color: yellow;
+}
+
+.inglaterra {
+    position: absolute;
+    top: 864px;
+    width: 600px;
+    height: 400px;
+    border: 4px solid black;
+    border-radius: 5px;
+}
+
+.f1 {
+    width: 80px;
+    height: 400px;
+    background-color: red;
+    position: absolute;
+    left: 260px;
+}
+
+.f2 {
+    width: 600px;
+    height: 80px;
+    background-color: red;
+    position: absolute;
+    top: 170px;
+}
+
+.suecia {
+    position: absolute;
+    top: 864px;
+    left: 640px;
+    width: 600px;
+    height: 400px;
+    border: 4px solid black;
+    border-radius: 5px;
+    background-color: blue;
+}
+
+.fx1 {
+    background-color: yellow;
+    width: 80px;
+    height: 400px;
+    position: absolute;
+    left: 150px;
+}
+
+.fx2 {
+    background-color: yellow;
+    width: 600px;
+    height: 80px;
+    position: absolute;
+    top: 170px;
+}
+
+.brasil {
+    position: absolute;
+    top: 1294px;
+    width: 600px;
+    height: 400px;
+    border: 4px solid black;
+    border-radius: 5px;
+    display: flex;
+    background-color: green;
+}
+
+.losango {
+    background-color: gold;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    width: 200px;
+    height: 200px;
+    transform: rotate(-50deg) skewY(19deg) skewX(9deg) scale(1.4);
+}
+
+.bola {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    border: 100px solid darkblue;
+    border-radius: 100%;
+}

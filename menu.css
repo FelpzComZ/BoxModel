@@ -1,0 +1,108 @@
+body {
+    background-color: lightblue;
+}
+
+.titulo {
+    width: 1000px;
+    height: 80px;
+    position: absolute;
+    left: 450px;
+    font-size: 70px;
+}
+
+div {
+    border: 2px black solid;
+    border-radius: 5px;
+    width: 180px;
+    height: 100px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 4px;
+}
+
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.ex1 {
+    position: absolute;
+    top: 120px;
+    left: 120px;
+}
+
+.ex2 {
+    position: absolute;
+    top: 120px;
+    left: 330px;
+}
+
+.ex3 {
+    position: absolute;
+    top: 120px;
+    left: 540px;
+}
+
+.ex4 {
+    position: absolute;
+    top: 120px;
+    left: 750px;
+}
+
+.ex5 {
+    position: absolute;
+    top: 120px;
+    left: 960px;
+}
+
+.ex6 {
+    position: absolute;
+    top: 120px;
+    left: 1170px;
+}
+
+.ex7 {
+    position: absolute;
+    top: 120px;
+    left: 1380px;
+}
+
+.ex8 {
+    position: absolute;
+    top: 120px;
+    left: 1590px;
+}
+
+.ex9 {
+    position: absolute;
+    top: 245px;
+    left: 435px;
+}
+
+.ex10_1 {
+    position: absolute;
+    top: 245px;
+    left: 645px;
+}
+
+.ex10_2 {
+    position: absolute;
+    top: 245px;
+    left: 855px;
+}
+
+.ex11 {
+    position: absolute;
+    top: 245px;
+    left: 1065px;
+}
+
+.ex12 {
+    position: absolute;
+    top: 245px;
+    left: 1275px;
+}

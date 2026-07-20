@@ -1,0 +1,32 @@
+div {
+    width: 180px;
+    height: 80px;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.caixaA {
+    border: 2px solid black;
+}
+
+.caixaB {
+    border: 2px dashed black;
+    position: absolute;
+    top: 0px;
+    left: 230px;
+}
+
+.caixaC {
+    border: 2px dotted black;
+    position: absolute;
+    top: 0px;
+    left: 450px;
+}
+
+.caixaD {
+    border: 2px double black;
+    position: absolute;
+    top: 0px;
+    left: 670px;
+}

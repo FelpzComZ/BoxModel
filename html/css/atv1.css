@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    padding: 20px;
+    margin: 30px 0px;
+}
+.card-noticia {
+    background-color: #f9f9f9;
+}
+.botao-ler {
+    background-color: #007bff;
+    color: white;
+    padding: 15px 10px;
+    display: block;
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+}
