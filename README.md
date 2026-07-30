@@ -17,5 +17,3 @@ Aqui eu explorei na prática como funcionam as propriedades:
 
 - **HTML5** - Estruturação do conteúdo
 - **CSS3** - Estilização e aplicação do Box Model
-
-## 📂 Estrutura do Projeto
